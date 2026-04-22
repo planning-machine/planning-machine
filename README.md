@@ -11,7 +11,7 @@ echo "Theodotos-Alexandreus: Plan the sequence of actions, machine." \
 
 Or, with a local pip installation:
 ```bash
-pip install planning-machine
+python3 -m pip install --user git+https://github.com/planning-machine/planning-machine.git
 ```
 Set the environment variables:
 ```bash
